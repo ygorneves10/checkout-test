@@ -1,0 +1,7 @@
+{
+  "extensions": {
+    "checkout/universal/checkout-click-retira": {
+      "component": "index"
+    }
+  }
+}
