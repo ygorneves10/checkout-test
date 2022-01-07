@@ -11,7 +11,7 @@ class CustomButton extends Component<CustomButtonProps, {}> {
   componentDidMount() {
     window.vtex.renderLoader.render(
       "checkout/universal/checkout-click-retira",
-      window.document.getElementById("shipping-data")
+      window.document.getElementById("client-profile-data")
     )
   }
 
